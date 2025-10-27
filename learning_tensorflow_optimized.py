@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# M. Kempka, T.Sternal, M.Wydmuch, Z.Boztoprak
+# M. Kempka, T.Sternal, M.Wydmuch, Z.Boztoprak 
 # Updated for Python 3.13 and TensorFlow 2.15+
 # January 2021 - Updated 2024
 #
